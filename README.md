@@ -8,3 +8,9 @@ To Run (Mac)
 6. pip install -r requirements.txt
 7. cd UNRCE-Django
 8. python3 manage.py runserver
+
+To Run (Windows)
+1. py -m pip install --user virtualenv
+2. py -m venv env
+3. .\env\Scripts\activate
+4. Steps 4 and beyond see Mac 
