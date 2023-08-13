@@ -6,7 +6,7 @@ To Run (Mac)
 4. git clone "https://github.com/thomasrigby/DjangoMock"
 5. cd DjangoMock
 6. pip install -r requirements.txt
-7. cd UNRCE-Django
+7. cd UNRCE-django
 8. python3 manage.py runserver
 
 To Run (Windows)
